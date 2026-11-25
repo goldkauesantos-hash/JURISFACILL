@@ -1,0 +1,6 @@
+{
+  "name": "PinPoint Studio",
+  "description": "Point at any part of a picture and speak how to change it using the Gemini Live API and Nano Banana.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
